@@ -98,8 +98,23 @@ Image fusion combines multiple images from different sources into a single, more
 ---
 
 ## References
-- Gonzalez, R. C., & Woods, R. E., *Digital Image Processing*.
-- Mallat, S., *A Wavelet Tour of Signal Processing*.
-- [Other references](#).
+ 1. Gonzalez, R. C., & Woods, R. E. (2018). Digital Image Processing (4th ed.).
+ Pearson.
+ ○ Referenced for foundational concepts in image fusion methodologies,
+ including spatial and transform domains.
+ 2. Mallat, S. (2008). A Wavelet Tour of Signal Processing: The Sparse Way (3rd
+ ed.). Academic Press.
+ ○ Utilized for understanding wavelet-based fusion techniques and
+ multi-resolution analysis.
+ 3. Kaur, P., & Goyal, D. (2015). "An overview of image fusion methods."
+ International Journal of Advanced Research in Computer and Communication
+ Engineering, 4(2), 223–227.
+ ○ Usedfor acomparative understanding of common fusion techniques
+ such as PCA and weighted averaging.
+ 4. Li, S., Kwok, J. T., & Wang, Y. (2002). "Using the discrete wavelet frame
+ transform to merge Landsat TM and SPOT panchromatic images." Information
+ Fusion, 3(1), 17–23.
+ ○ Basis for the integration of wavelet-based and PCA fusion
+ methodologies.
 
 ---

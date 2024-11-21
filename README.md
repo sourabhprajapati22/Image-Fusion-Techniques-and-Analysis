@@ -23,27 +23,27 @@ Image fusion combines multiple images from different sources into a single, more
 
 1. **Averaging**  
    Combines images by averaging pixel values.
-   ![Averaging Technique](Fused%20Images\Average_fusion.png)
+   ![Averaging Technique](Fused%20Images/Average_fusion.png)
 
 2. **Principal Component Analysis (PCA)**  
    Extracts significant features using PCA for fusion.
-   ![PCA Technique](Fused%20Images\PCA.png)
+   ![PCA Technique](Fused%20Images/PCA.png)
 
 3. **Wavelet Transform**  
    Uses wavelet coefficients to enhance image details.
-   ![Wavelet Transform](Fused%20Images\wavelet_pca.jpg)
+   ![Wavelet Transform](Fused%20Images/wavelet_pca.jpg)
 
 4. **Weighted Averaging**  
    Assigns weights to images for custom fusion.
-   ![Weighted Averaging](Fused%20Images\Waited%20Average.png)
+   ![Weighted Averaging](Fused%20Images/Waited%20Average.png)
 
 5. **Wavelet Fusion**  
    Combines images using wavelet decomposition and reconstruction.
-   ![Wavelet Fusion](Fused%20Images\wavelet_pca.jpg)
+   ![Wavelet Fusion](Fused%20Images/wavelet_pca.jpg)
 
 6. **Band Fusion**  
    Integrates spectral bands for detailed analysis.
-   ![Band Fusion](Fused%20Images\band%20fusion.png)
+   ![Band Fusion](Fused%20Images/band%20fusion.png)
 
 ---
 
